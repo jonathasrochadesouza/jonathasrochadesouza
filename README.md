@@ -8,3 +8,4 @@ Student '**SENAI** *in Blumenau - SC (Brazil)*'
 Tech enthusiast. ever learning something new!
 
 Passionate about tech. Changing people's lives through programming. Transforming the world through technology!
+.
