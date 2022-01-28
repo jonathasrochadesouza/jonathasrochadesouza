@@ -1,4 +1,4 @@
-<p align="left"> 
+<p align="left" max-width="400px"> 
   My name is Jonathas Rocha </strong>.<br>
   
   Tech enthusiast. ever learning something new!
