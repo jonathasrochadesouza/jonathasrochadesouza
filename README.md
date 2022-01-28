@@ -3,7 +3,8 @@
   
   Tech enthusiast. ever learning something new!
 
-  Passionate about tech. Changing people's lives through programming. Transforming the world through technology!. <br><br>
+  Passionate about tech. Changing people's lives through programming. <br>
+  Transforming the world through technology!. <br><br>
 
   Student '**SENAI** *i
   n Blumenau - SC (Brazil)*' <br>(System analysis and development)
