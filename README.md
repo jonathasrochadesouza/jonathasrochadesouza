@@ -1,13 +1,10 @@
-<p align="left" max-width="400px"> 
-  My name is Jonathas Rocha </strong>.<br>
-  
-  Tech enthusiast. ever learning something new!
+### Jonathas Rocha de Souza
 
-  Passionate about tech. Changing people's lives through programming. <br>
-  Transforming the world through technology!. <br><br>
+Student '**SENAI** *in Blumenau - SC (Brazil)*' <br>(System analysis and development)
 
-  Student '**SENAI** *i
-  n Blumenau - SC (Brazil)*' <br>(System analysis and development)
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-jonathasrochadesouza-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathasrochadesouza/)](https://www.linkedin.com/in/jonathasrochadesouza/) 
+[![Gmail Badge](https://img.shields.io/badge/-jonathasrochadesouza@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathasrochadesouza@gmail.com)](mailto:jonathasrochadesouza@gmail.com)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Tech enthusiast. ever learning something new!
+
+Passionate about tech. Changing people's lives through programming. Transforming the world through technology!
