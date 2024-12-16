@@ -1,8 +1,10 @@
 ### Jonathas Rocha de Souza
 
-Student '**SENAI** *in Blumenau - SC (Brazil)*' <br>(System analysis and development)
+Research Software Engineer at the **Senior Sistemas**
 
-Tech enthusiast. ever learning something new!
+Postgraduate degree in software engineering from college Descomplica and graduated from SENAI SC university 🎓
+
+Tech enthusiast. Ever learning something new! 💚
 
 Passionate about tech. Changing people's lives through programming. Transforming the world through technology!
 
