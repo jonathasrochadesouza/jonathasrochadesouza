@@ -16,8 +16,16 @@
 
 <hr/>
  
-<h2 align="center" style="border-bottom: none;">⚒️ Languages, Frameworks and Tools</h2>
+<h2 align="center" style="border-bottom: none;">⚒️ Languages, frameworks and tools</h2>
+
 <br/>
+
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jonathasrochadesouza&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,aws,postgres,github,javascript,typescript,express,firebase,mongodb,docker" /><br/>
     <img src="https://skillicons.dev/icons?i=nodejs,angular,react,bootstrap,html,css,vscode,figma,tailwind,git" /><br/>
@@ -27,7 +35,7 @@
 <br/>
 <hr/>
 
-<h2 align="center" style="border-bottom: none;">💫 Featured Projects</h2>
+<h2 align="center" style="border-bottom: none;">💫 Featured projects</h2>
 <br/>
 
 <div align="center">
@@ -51,16 +59,6 @@
     </a>
   </div>
 </div>
-
-<br/>
-<hr/>
-<br>
-
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jonathasrochadesouza&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
 
 <hr/>
 
