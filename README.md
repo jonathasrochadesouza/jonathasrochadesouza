@@ -25,6 +25,7 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,aws,postgres,github,javascript,typescript,express,firebase,mongodb,docker" /><br/>
@@ -35,10 +36,9 @@
 <br/>
 <hr/>
 
-<h2 align="center" style="border-bottom: none;">💫 Featured projects</h2>
+<h2 align="center" style="border-bottom: none;">💫 Feature projects</h2>
 <br/>
 
-<div align="center">
   <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
     <a href="https://github.com/jonathasrochadesouza/hcm-challenge-senior-backend">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=hcm-challenge-senior-backend&theme=react&border_radius=10" alt="Event-driven architecture with Java"/>
@@ -46,11 +46,6 @@
     <a href="https://github.com/jonathasrochadesouza/hcm-challenge-senior-frontend">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=hcm-challenge-senior-frontend&theme=react&border_radius=10" alt="Event-driven architecture with Java: Frontend (in ReactJS)"/>
     </a>
-  </div>
-
-  <br/>
-
-  <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
     <a href="https://github.com/jonathasrochadesouza/docker-know">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=docker-know&theme=react&border_radius=10" alt="Study about Docker"/>
     </a>
