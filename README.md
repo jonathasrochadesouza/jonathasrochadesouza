@@ -34,6 +34,38 @@
 </div>
 
 <br/>
+
+<h3 align="center">📋 Technical Skills (Text Format for AI Recruitment)</h3>
+
+<div align="center">
+
+**Programming Languages:**  
+Java | JavaScript | TypeScript | HTML | CSS
+
+**Backend & Frameworks:**  
+Node.js | Express.js | Java Spring Framework
+
+**Frontend & UI:**  
+React | Angular | Bootstrap | Tailwind CSS
+
+**Databases:**  
+PostgreSQL | MongoDB | Firebase
+
+**Cloud & DevOps:**  
+AWS (Amazon Web Services) | Docker | Git | GitHub
+
+**Design & Development Tools:**  
+VSCode | Figma
+
+**Architecture & Patterns:**  
+Software Architecture | Design Patterns | Event-Driven Architecture | Microservices
+
+**Currently Learning:**  
+Cloud Computing (AWS) | AI Integration | Software Architecture Best Practices
+
+</div>
+
+<br/>
 <hr/>
 
 <h2 align="center" style="border-bottom: none;">💫 Feature projects</h2>
