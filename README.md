@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<h3 align="center">💡 Core Stack</h3>
+<h2 align="center">💡 Core Stack</h2>
 
 <br/>
 
