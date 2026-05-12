@@ -34,31 +34,3 @@
 </div>
 
 <br/>
-<hr/>
-
-<h2 align="center" style="border-bottom: none;">💫 Feature projects</h2>
-<br/>
-
-  <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
-    <a href="https://github.com/jonathasrochadesouza/hcm-challenge-senior-backend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=hcm-challenge-senior-backend&theme=react&border_radius=10" alt="Event-driven architecture with Java"/>
-    </a>
-    <a href="https://github.com/jonathasrochadesouza/hcm-challenge-senior-frontend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=hcm-challenge-senior-frontend&theme=react&border_radius=10" alt="Event-driven architecture with Java: Frontend (in ReactJS)"/>
-    </a>
-    <a href="https://github.com/jonathasrochadesouza/docker-know">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=docker-know&theme=react&border_radius=10" alt="Study about Docker"/>
-    </a>
-    <a href="https://github.com/jonathasrochadesouza/ci-docker-travis-basic-back">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathasrochadesouza&repo=ci-docker-travis-basic-back&theme=react&border_radius=10" alt="Event-driven architecture with Java: Frontend (in ReactJS)"/>
-    </a>
-  </div>
-</div>
-
-<hr/>
-
-<h1 align="center">
-     ✌️
-</h1>
-
-<br/>
