@@ -25,8 +25,6 @@
 
 ---
 
-<h2 align="center">🛠️ What I Bring to the Table</h2>
-
 <div align="center">
 
 <h3 align="center">💡 Core Stack</h3>
