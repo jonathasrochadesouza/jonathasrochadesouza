@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/9cb58f14-f3ff-4a0f-861d-4c457e6f1157" 
+    alt="LinkedIn Banner" 
+    width="100%" 
+  />
+</p>
+
 <div align="center">
 <h2 align="center">🚴🏾 Me</h2>
 
