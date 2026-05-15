@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">
-<h2 align="center">🚴🏾 Me</h2>
 
   > Married to an amazing wife ❤️, we share life with our dog **Bob** and our cat **Marley**, and I genuinely enjoy getting outside and riding a bike.
 
